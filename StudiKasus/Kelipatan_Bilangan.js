@@ -9,3 +9,5 @@ function run(n) {
     return 2 * n;
   }
 }
+
+// Masukkan Input Sesuai Soal
