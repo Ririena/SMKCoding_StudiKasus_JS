@@ -12,8 +12,6 @@ function run(num) {
     return parseFloat(jumlahYangHarusDibayar.toFixed(2));
   }
   
-
-//Coba Output
   console.log('1. num: 50000, output:', run(50000)); 
   console.log('2. num: 100000, output:', run(100000)); 
   console.log('3. num: 101000, output:', run(101000)); 
