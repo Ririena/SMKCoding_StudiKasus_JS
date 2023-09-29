@@ -1,9 +1,9 @@
 function run(x,y,z) {
-    let totalSavings = 0;
+    let simpan = 0;
   
     for (let i = 1; i <= z; i++) {
-      totalSavings += x + (i - 1) * y;  // Menambah setoran bulanan
+      simpan += x + (i - 1) * y;  // Si Alif Nabung
     }
   
-    return totalSavings;
+    return simpan;
   }
