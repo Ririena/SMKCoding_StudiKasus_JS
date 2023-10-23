@@ -1,3 +1,3 @@
-# SMK_Koding_Kasus_X-RPL-2
+# SMK_Koding_STUDIKASUS_JS
 - Hasil Studi Kasus Matrikulasi
 - Tahap Pengkodingan
